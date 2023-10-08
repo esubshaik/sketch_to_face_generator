@@ -1,5 +1,8 @@
 # Human Face Image Prediction using GAN
 
+## Inference results
+![input_image](https://drive.google.com/uc?export=view&id=1nkQp_-GqHUn8Un1PmqD2WJyk9pg-MNHq) 
+![predicted_image](https://drive.google.com/uc?export=view&id=1ICtL37raiK9VC2nf-P3gfIobq--5F6vR) 
 
 ## Overview
 
